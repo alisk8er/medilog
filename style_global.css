@@ -18,14 +18,13 @@
 * {
     text-decoration: none;
     font-family: "Roboto";
-    font-size: 16px;
     color: black;
-    background-color: rgb(152, 205, 214);
+    font-size: 16px;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-   /* border: 1px solid black;*/
-    --primary_color: #29ab87;
+   /* border: 1px solid black; */
+    --primary_color: #cf4040;
     --secondary_color: #b3359e; 
 }
 
